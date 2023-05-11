@@ -1,5 +1,5 @@
 # CourseWebsite
-The course website and course slides for Research Methods in Organizations and Management. The slides are compiled by [Slidev](https://cn.sli.dev/).
+The course website and course slides for Research Methods in Organizations and Management. The slides are compiled by [Slidev](https://cn.sli.dev/). The slides collection are downloadable at [julia-slides/Lectures](https://github.com/Fanisting/julia_slides/tree/main/Lectures)
 
 # The Repo Structure
 - main site
